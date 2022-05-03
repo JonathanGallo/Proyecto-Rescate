@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "monoCamina01.png",
+	"frame": {"x":221,"y":240,"w":221,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":127},
+	"sourceSize": {"w":221,"h":127}
+},
+{
+	"filename": "monoCamina02.png",
+	"frame": {"x":221,"y":367,"w":221,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":127},
+	"sourceSize": {"w":221,"h":127}
+},
+{
+	"filename": "monoCamina03.png",
+	"frame": {"x":0,"y":494,"w":221,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":129},
+	"sourceSize": {"w":221,"h":129}
+},
+{
+	"filename": "monoCamina04.png",
+	"frame": {"x":223,"y":114,"w":221,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":126},
+	"sourceSize": {"w":221,"h":126}
+},
+{
+	"filename": "monoCamina05.png",
+	"frame": {"x":0,"y":623,"w":221,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":130},
+	"sourceSize": {"w":221,"h":130}
+},
+{
+	"filename": "monoCamina06.png",
+	"frame": {"x":223,"y":753,"w":221,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":133},
+	"sourceSize": {"w":221,"h":133}
+},
+{
+	"filename": "monoCamina07.png",
+	"frame": {"x":221,"y":623,"w":221,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":130},
+	"sourceSize": {"w":221,"h":130}
+},
+{
+	"filename": "monoCamina08.png",
+	"frame": {"x":0,"y":240,"w":221,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":126},
+	"sourceSize": {"w":221,"h":126}
+},
+{
+	"filename": "monoCamina09.png",
+	"frame": {"x":221,"y":494,"w":221,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":129},
+	"sourceSize": {"w":221,"h":129}
+},
+{
+	"filename": "monoCamina010.png",
+	"frame": {"x":0,"y":367,"w":221,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":127},
+	"sourceSize": {"w":221,"h":127}
+},
+{
+	"filename": "monoMuerte01.png",
+	"frame": {"x":0,"y":114,"w":223,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":125},
+	"sourceSize": {"w":223,"h":125}
+},
+{
+	"filename": "monoMuerte02.png",
+	"frame": {"x":223,"y":0,"w":223,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":114},
+	"sourceSize": {"w":223,"h":114}
+},
+{
+	"filename": "monoMuerte03.png",
+	"frame": {"x":0,"y":0,"w":223,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":79},
+	"sourceSize": {"w":223,"h":79}
+},
+{
+	"filename": "monoSalto01.png",
+	"frame": {"x":0,"y":886,"w":221,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":133},
+	"sourceSize": {"w":221,"h":133}
+},
+{
+	"filename": "monoSalto02.png",
+	"frame": {"x":0,"y":753,"w":223,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":130},
+	"sourceSize": {"w":223,"h":130}
+},
+{
+	"filename": "monoSalto03.png",
+	"frame": {"x":221,"y":886,"w":223,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":133},
+	"sourceSize": {"w":223,"h":133}
+},
+{
+	"filename": "monoSalto04.png",
+	"frame": {"x":0,"y":1019,"w":223,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":141},
+	"sourceSize": {"w":223,"h":141}
+},
+{
+	"filename": "monoSalto05.png",
+	"frame": {"x":223,"y":1019,"w":223,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":143},
+	"sourceSize": {"w":223,"h":143}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mono.png",
+	"format": "RGBA8888",
+	"size": {"w":446,"h":1162},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:782e2b217cd76e757f8803124fcb0df2:68ea48638df12c2c28b643693313485a:ed89c5734bc1056932371b604be7b146$"
+}
+}

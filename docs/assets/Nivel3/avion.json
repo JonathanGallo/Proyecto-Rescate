@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "avion01.png",
+	"frame": {"x":0,"y":0,"w":386,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":256},
+	"sourceSize": {"w":386,"h":256}
+},
+{
+	"filename": "avion02.png",
+	"frame": {"x":386,"y":0,"w":386,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":256},
+	"sourceSize": {"w":386,"h":256}
+},
+{
+	"filename": "avion03.png",
+	"frame": {"x":772,"y":0,"w":386,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":256},
+	"sourceSize": {"w":386,"h":256}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "avion.png",
+	"format": "RGBA8888",
+	"size": {"w":1158,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:db1beb15f48d005b0f67f84736b3815b:8c1d94698ffeabaf627a785be8d1cf59:ba3a9af8ec6e66c0eeb9c8fcad26f83e$"
+}
+}

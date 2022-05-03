@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "criaMono01.png",
+	"frame": {"x":0,"y":0,"w":119,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":98},
+	"sourceSize": {"w":119,"h":98}
+},
+{
+	"filename": "criaMono02.png",
+	"frame": {"x":119,"y":0,"w":119,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":98},
+	"sourceSize": {"w":119,"h":98}
+},
+{
+	"filename": "criaMono03.png",
+	"frame": {"x":238,"y":0,"w":119,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":98},
+	"sourceSize": {"w":119,"h":98}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "criaMono.png",
+	"format": "RGBA8888",
+	"size": {"w":357,"h":98},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5aecdc33e11afe570671affd21ff7f35:f55af0d66b31e9f7c4a4056477e06644:7e255f1c5db4cc406d15acbee814d8ec$"
+}
+}

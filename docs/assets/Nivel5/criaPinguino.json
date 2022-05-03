@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "criaPingui01.png",
+	"frame": {"x":0,"y":0,"w":130,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":101},
+	"sourceSize": {"w":130,"h":101}
+},
+{
+	"filename": "criaPingui02.png",
+	"frame": {"x":130,"y":0,"w":130,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":101},
+	"sourceSize": {"w":130,"h":101}
+},
+{
+	"filename": "criaPingui03.png",
+	"frame": {"x":260,"y":0,"w":130,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":101},
+	"sourceSize": {"w":130,"h":101}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "criaPinguino.png",
+	"format": "RGBA8888",
+	"size": {"w":390,"h":101},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4fee5915f690049e63aacf59969a5a78:dc8d17338bfd994251b621940dfbb91a:b27dcf9f3138b113603197ba403d6941$"
+}
+}

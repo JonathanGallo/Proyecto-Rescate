@@ -1,0 +1,124 @@
+{"frames": [
+
+{
+	"filename": "carne01.png",
+	"frame": {"x":207,"y":62,"w":84,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":66},
+	"sourceSize": {"w":84,"h":66}
+},
+{
+	"filename": "carne02.png",
+	"frame": {"x":291,"y":62,"w":84,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":66},
+	"sourceSize": {"w":84,"h":66}
+},
+{
+	"filename": "carne03.png",
+	"frame": {"x":344,"y":0,"w":55,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":62},
+	"sourceSize": {"w":55,"h":62}
+},
+{
+	"filename": "carne04.png",
+	"frame": {"x":150,"y":0,"w":45,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":58},
+	"sourceSize": {"w":45,"h":58}
+},
+{
+	"filename": "carne05.png",
+	"frame": {"x":30,"y":0,"w":30,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":58},
+	"sourceSize": {"w":30,"h":58}
+},
+{
+	"filename": "carne06.png",
+	"frame": {"x":195,"y":0,"w":45,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":58},
+	"sourceSize": {"w":45,"h":58}
+},
+{
+	"filename": "carne07.png",
+	"frame": {"x":292,"y":0,"w":52,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":58},
+	"sourceSize": {"w":52,"h":58}
+},
+{
+	"filename": "carne08.png",
+	"frame": {"x":63,"y":62,"w":63,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":60},
+	"sourceSize": {"w":63,"h":60}
+},
+{
+	"filename": "carne09.png",
+	"frame": {"x":126,"y":62,"w":81,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":64},
+	"sourceSize": {"w":81,"h":64}
+},
+{
+	"filename": "carne010.png",
+	"frame": {"x":0,"y":62,"w":63,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":60},
+	"sourceSize": {"w":63,"h":60}
+},
+{
+	"filename": "carne011.png",
+	"frame": {"x":240,"y":0,"w":52,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":58},
+	"sourceSize": {"w":52,"h":58}
+},
+{
+	"filename": "carne012.png",
+	"frame": {"x":60,"y":0,"w":45,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":58},
+	"sourceSize": {"w":45,"h":58}
+},
+{
+	"filename": "carne013.png",
+	"frame": {"x":0,"y":0,"w":30,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":58},
+	"sourceSize": {"w":30,"h":58}
+},
+{
+	"filename": "carne014.png",
+	"frame": {"x":105,"y":0,"w":45,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":58},
+	"sourceSize": {"w":45,"h":58}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "nivel1_carne.png",
+	"format": "RGBA8888",
+	"size": {"w":399,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:82340ac20e55a2046375d21a4142488a:dec3304edbc8619aad8e22d209292b44:e364b9cad3f7c864f2303036bc9f73f4$"
+}
+}

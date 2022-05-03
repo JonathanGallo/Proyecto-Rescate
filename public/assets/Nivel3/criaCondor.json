@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "cria01.png",
+	"frame": {"x":0,"y":0,"w":74,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":57},
+	"sourceSize": {"w":74,"h":57}
+},
+{
+	"filename": "cria02.png",
+	"frame": {"x":74,"y":0,"w":74,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":57},
+	"sourceSize": {"w":74,"h":57}
+},
+{
+	"filename": "cria03.png",
+	"frame": {"x":148,"y":0,"w":74,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":57},
+	"sourceSize": {"w":74,"h":57}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "criaCondor.png",
+	"format": "RGBA8888",
+	"size": {"w":222,"h":57},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1bcd02da2224c70dda1a03857aab3baf:821fe1ebd1809319905f2d0adec04f63:7eb981466a0740d82f9ed299bd5579ce$"
+}
+}

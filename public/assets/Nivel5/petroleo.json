@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "petroleo01.png",
+	"frame": {"x":0,"y":0,"w":124,"h":235},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":235},
+	"sourceSize": {"w":124,"h":235}
+},
+{
+	"filename": "petroleo02.png",
+	"frame": {"x":124,"y":0,"w":125,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":236},
+	"sourceSize": {"w":125,"h":236}
+},
+{
+	"filename": "petroleo03.png",
+	"frame": {"x":249,"y":0,"w":125,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":236},
+	"sourceSize": {"w":125,"h":236}
+},
+{
+	"filename": "petroleo04.png",
+	"frame": {"x":374,"y":0,"w":125,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":236},
+	"sourceSize": {"w":125,"h":236}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "petroleoAnimation.png",
+	"format": "RGBA8888",
+	"size": {"w":499,"h":236},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cf24d7c37a8e14e60bba1a217c0283c6:e7c5432baad8b89912e18c57eca617e0:e5170739322534ee9960c5110b8b9783$"
+}
+}

@@ -1,0 +1,108 @@
+{"frames": [
+
+{
+	"filename": "pingu_Nro01.png",
+	"frame": {"x":0,"y":0,"w":161,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":92},
+	"sourceSize": {"w":161,"h":92}
+},
+{
+	"filename": "pingu_Nro02.png",
+	"frame": {"x":161,"y":0,"w":161,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":92},
+	"sourceSize": {"w":161,"h":92}
+},
+{
+	"filename": "pingu_Nro03.png",
+	"frame": {"x":322,"y":0,"w":161,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":92},
+	"sourceSize": {"w":161,"h":92}
+},
+{
+	"filename": "pingu_Nro04.png",
+	"frame": {"x":483,"y":0,"w":161,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":92},
+	"sourceSize": {"w":161,"h":92}
+},
+{
+	"filename": "pingu_Nro05.png",
+	"frame": {"x":644,"y":0,"w":161,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":92},
+	"sourceSize": {"w":161,"h":92}
+},
+{
+	"filename": "pingu_Nro06.png",
+	"frame": {"x":805,"y":0,"w":161,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":92},
+	"sourceSize": {"w":161,"h":92}
+},
+{
+	"filename": "pingu_Nro07.png",
+	"frame": {"x":966,"y":0,"w":161,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":92},
+	"sourceSize": {"w":161,"h":92}
+},
+{
+	"filename": "pingu_Nro08.png",
+	"frame": {"x":1127,"y":0,"w":161,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":92},
+	"sourceSize": {"w":161,"h":92}
+},
+{
+	"filename": "pingu_Nro09.png",
+	"frame": {"x":1288,"y":0,"w":161,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":92},
+	"sourceSize": {"w":161,"h":92}
+},
+{
+	"filename": "pingu_Nro010.png",
+	"frame": {"x":1449,"y":0,"w":161,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":92},
+	"sourceSize": {"w":161,"h":92}
+},
+{
+	"filename": "pinguMuerte01.png",
+	"frame": {"x":1610,"y":0,"w":161,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":92},
+	"sourceSize": {"w":161,"h":92}
+},
+{
+	"filename": "pinguMuerte02.png",
+	"frame": {"x":1771,"y":0,"w":161,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":92},
+	"sourceSize": {"w":161,"h":92}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pinguino.png",
+	"format": "RGBA8888",
+	"size": {"w":1932,"h":92},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:02a6ac962e40431fa0aeeae2153b36b0:27c339e1ef0d46a351d4f670baa694d6:d7861191743801dacea7e109fb9f890e$"
+}
+}

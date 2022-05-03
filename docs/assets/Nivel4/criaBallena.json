@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "criaballena_01.png",
+	"frame": {"x":0,"y":0,"w":86,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":100},
+	"sourceSize": {"w":86,"h":100}
+},
+{
+	"filename": "criaballena_02.png",
+	"frame": {"x":86,"y":0,"w":83,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":102},
+	"sourceSize": {"w":83,"h":102}
+},
+{
+	"filename": "criaballena_03.png",
+	"frame": {"x":169,"y":0,"w":87,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":103},
+	"sourceSize": {"w":87,"h":103}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "criaBallena.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":103},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7c991f8bf044f8b1ac4994651dd02797:3a06cd99a96f3b4f3ee4a11a7f381929:9c5e68130d86f7b5b11158f5e28effb9$"
+}
+}

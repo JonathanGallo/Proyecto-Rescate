@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "pez01.png",
+	"frame": {"x":0,"y":0,"w":83,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":48},
+	"sourceSize": {"w":83,"h":48}
+},
+{
+	"filename": "pez02.png",
+	"frame": {"x":83,"y":0,"w":68,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":42},
+	"sourceSize": {"w":68,"h":42}
+},
+{
+	"filename": "pez03.png",
+	"frame": {"x":151,"y":0,"w":53,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":42},
+	"sourceSize": {"w":53,"h":42}
+},
+{
+	"filename": "pez04.png",
+	"frame": {"x":204,"y":0,"w":49,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":42},
+	"sourceSize": {"w":49,"h":42}
+},
+{
+	"filename": "pez05.png",
+	"frame": {"x":253,"y":0,"w":25,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":42},
+	"sourceSize": {"w":25,"h":42}
+},
+{
+	"filename": "pez06.png",
+	"frame": {"x":278,"y":0,"w":49,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":42},
+	"sourceSize": {"w":49,"h":42}
+},
+{
+	"filename": "pez07.png",
+	"frame": {"x":327,"y":0,"w":52,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":38},
+	"sourceSize": {"w":52,"h":38}
+},
+{
+	"filename": "pez08.png",
+	"frame": {"x":379,"y":0,"w":66,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":41},
+	"sourceSize": {"w":66,"h":41}
+},
+{
+	"filename": "pez09.png",
+	"frame": {"x":0,"y":48,"w":82,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":44},
+	"sourceSize": {"w":82,"h":44}
+},
+{
+	"filename": "pez010.png",
+	"frame": {"x":82,"y":48,"w":66,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":41},
+	"sourceSize": {"w":66,"h":41}
+},
+{
+	"filename": "pez011.png",
+	"frame": {"x":148,"y":48,"w":52,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":38},
+	"sourceSize": {"w":52,"h":38}
+},
+{
+	"filename": "pez012.png",
+	"frame": {"x":200,"y":48,"w":49,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":42},
+	"sourceSize": {"w":49,"h":42}
+},
+{
+	"filename": "pez013.png",
+	"frame": {"x":249,"y":48,"w":25,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":42},
+	"sourceSize": {"w":25,"h":42}
+},
+{
+	"filename": "pez014.png",
+	"frame": {"x":274,"y":48,"w":49,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":42},
+	"sourceSize": {"w":49,"h":42}
+},
+{
+	"filename": "pez015.png",
+	"frame": {"x":323,"y":48,"w":53,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":42},
+	"sourceSize": {"w":53,"h":42}
+},
+{
+	"filename": "pez016.png",
+	"frame": {"x":376,"y":48,"w":68,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":42},
+	"sourceSize": {"w":68,"h":42}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "nivel5_comida.png",
+	"format": "RGBA8888",
+	"size": {"w":445,"h":92},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:085c768423be6877ab3cbc7069c64335:26bb0ce4002368102a3e60f4876e47b5:2a360cd41c729fa8de22e194e9fb1a69$"
+}
+}

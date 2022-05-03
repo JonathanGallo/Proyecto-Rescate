@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "veneno01.png",
+	"frame": {"x":0,"y":0,"w":145,"h":281},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":281},
+	"sourceSize": {"w":145,"h":281}
+},
+{
+	"filename": "veneno02.png",
+	"frame": {"x":0,"y":281,"w":145,"h":281},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":281},
+	"sourceSize": {"w":145,"h":281}
+},
+{
+	"filename": "veneno03.png",
+	"frame": {"x":0,"y":562,"w":145,"h":281},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":281},
+	"sourceSize": {"w":145,"h":281}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "veneno.png",
+	"format": "RGBA8888",
+	"size": {"w":145,"h":843},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f4f536b851d0a59954a6c0ca0569313d:9380fa85ea233b1a562fb41abb0c501a:d5ee7847007db2834fcc726ee98652fd$"
+}
+}

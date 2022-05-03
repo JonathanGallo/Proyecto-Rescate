@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "ballena_01.png",
+	"frame": {"x":0,"y":0,"w":378,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":378,"h":195},
+	"sourceSize": {"w":378,"h":195}
+},
+{
+	"filename": "ballena_02.png",
+	"frame": {"x":0,"y":195,"w":378,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":378,"h":195},
+	"sourceSize": {"w":378,"h":195}
+},
+{
+	"filename": "ballena_03.png",
+	"frame": {"x":0,"y":390,"w":378,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":378,"h":195},
+	"sourceSize": {"w":378,"h":195}
+},
+{
+	"filename": "ballena_04.png",
+	"frame": {"x":0,"y":585,"w":378,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":378,"h":195},
+	"sourceSize": {"w":378,"h":195}
+},
+{
+	"filename": "ballena_05.png",
+	"frame": {"x":0,"y":780,"w":378,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":378,"h":211},
+	"sourceSize": {"w":378,"h":211}
+},
+{
+	"filename": "ballenamuer_01.png",
+	"frame": {"x":0,"y":991,"w":378,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":378,"h":211},
+	"sourceSize": {"w":378,"h":211}
+},
+{
+	"filename": "ballenamuer_02.png",
+	"frame": {"x":0,"y":1202,"w":378,"h":211},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":378,"h":211},
+	"sourceSize": {"w":378,"h":211}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ballena.png",
+	"format": "RGBA8888",
+	"size": {"w":378,"h":1413},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f49e28c55d5035c07cd653d32c921682:f3744e3e821a500a704440d18709d882:7c749f973a41c899c3ce27b6ce57699c$"
+}
+}

@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "condor01.png",
+	"frame": {"x":0,"y":0,"w":309,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":309,"h":271},
+	"sourceSize": {"w":309,"h":271}
+},
+{
+	"filename": "condor02.png",
+	"frame": {"x":309,"y":0,"w":309,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":309,"h":271},
+	"sourceSize": {"w":309,"h":271}
+},
+{
+	"filename": "condor03.png",
+	"frame": {"x":618,"y":0,"w":309,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":309,"h":271},
+	"sourceSize": {"w":309,"h":271}
+},
+{
+	"filename": "condor04.png",
+	"frame": {"x":0,"y":271,"w":309,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":309,"h":271},
+	"sourceSize": {"w":309,"h":271}
+},
+{
+	"filename": "condor05.png",
+	"frame": {"x":309,"y":271,"w":309,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":309,"h":271},
+	"sourceSize": {"w":309,"h":271}
+},
+{
+	"filename": "condor06.png",
+	"frame": {"x":618,"y":271,"w":309,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":309,"h":271},
+	"sourceSize": {"w":309,"h":271}
+},
+{
+	"filename": "condor07.png",
+	"frame": {"x":0,"y":542,"w":309,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":309,"h":271},
+	"sourceSize": {"w":309,"h":271}
+},
+{
+	"filename": "condorMuerte01.png",
+	"frame": {"x":309,"y":542,"w":309,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":309,"h":271},
+	"sourceSize": {"w":309,"h":271}
+},
+{
+	"filename": "condorMuerte02.png",
+	"frame": {"x":618,"y":542,"w":309,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":309,"h":271},
+	"sourceSize": {"w":309,"h":271}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "condor.png",
+	"format": "RGBA8888",
+	"size": {"w":927,"h":813},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:29736b0288c91563389fd742143bd8d9:f0beef5bb618244838861542527cdca0:bd31dca7c931bd6977ac36219911ac96$"
+}
+}

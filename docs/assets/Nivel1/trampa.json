@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "trampa_Nro01.png",
+	"frame": {"x":0,"y":0,"w":113,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":91},
+	"sourceSize": {"w":113,"h":91}
+},
+{
+	"filename": "trampa_Nro02.png",
+	"frame": {"x":113,"y":0,"w":113,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":91},
+	"sourceSize": {"w":113,"h":91}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "trampa.png",
+	"format": "RGBA8888",
+	"size": {"w":226,"h":91},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:92a908c46878b3a50729285539f0c18e:27a0ca3c84b5698e9da6f2e0ff19fff6:d7862491e06cb6b533a0b950f41ee4ea$"
+}
+}

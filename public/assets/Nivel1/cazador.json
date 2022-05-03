@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "cazador01.png",
+	"frame": {"x":0,"y":0,"w":185,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":257},
+	"sourceSize": {"w":185,"h":257}
+},
+{
+	"filename": "cazador02.png",
+	"frame": {"x":0,"y":257,"w":185,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":257},
+	"sourceSize": {"w":185,"h":257}
+},
+{
+	"filename": "cazador03.png",
+	"frame": {"x":0,"y":514,"w":204,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":257},
+	"sourceSize": {"w":204,"h":257}
+},
+{
+	"filename": "cazador04.png",
+	"frame": {"x":0,"y":771,"w":204,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":257},
+	"sourceSize": {"w":204,"h":257}
+},
+{
+	"filename": "cazador05.png",
+	"frame": {"x":0,"y":1028,"w":204,"h":275},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":275},
+	"sourceSize": {"w":204,"h":275}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cazador.png",
+	"format": "RGBA8888",
+	"size": {"w":204,"h":1303},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:82da2d1234c82a050e6bdb1c79f6b967:d6e18405b3ed9f070cf611a5253a3c58:b58768a0fd70a5345cdf9989436da970$"
+}
+}
